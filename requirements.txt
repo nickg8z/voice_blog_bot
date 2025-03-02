@@ -1,0 +1,9 @@
+python-telegram-bot[job-queue]
+python-dotenv
+openai
+requests
+schedule
+pydub
+SpeechRecognition
+markdown>=3.3.0
+ghost-client

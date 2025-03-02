@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# Temporary and log files
+*.log
+temp_audio/
+blog_posts/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Bot-specific files
+*.ogg
+*.wav
+*.txt
+!requirements.txt
