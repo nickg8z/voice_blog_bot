@@ -26,7 +26,7 @@ A Telegram bot that transforms your voice messages into formatted blog posts. Re
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/nickg8z/voice-blog-bot.git
+git clone https://github.com/nickg8z/voice_blog_bot.git
 cd voice-blog-bot
 ```
 
